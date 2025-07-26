@@ -17,8 +17,8 @@ This project is a Telegram bot for selling products and managing subscriptions.
 
 1. Клонируйте репозиторий / Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd <project-folder>
+   git clone https://github.com/godspeedstreet/botnet.git
+   cd botnet
    ```
 
 2. Установите зависимости / Install dependencies:
